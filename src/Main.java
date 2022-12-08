@@ -36,4 +36,4 @@ public class Main {
     }
 }
 
-// EXEMPLO 1.0 SEM SWITCH CASE
+// EXEMPLO 1.0 >> SEM << SWITCH CASE.
